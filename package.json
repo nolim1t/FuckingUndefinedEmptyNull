@@ -1,0 +1,19 @@
+{
+  "name": "fuckingundefinedemptynull",
+  "version": "1.0.0",
+  "description": "Check for undefined strings, or soon objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nolim1t/FuckingUndefinedEmptyNull.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nolim1t/FuckingUndefinedEmptyNull/issues"
+  },
+  "homepage": "https://github.com/nolim1t/FuckingUndefinedEmptyNull#readme"
+}
