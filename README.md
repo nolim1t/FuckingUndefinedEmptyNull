@@ -4,7 +4,7 @@
 
 # FuckingUndefinedEmptyNull
 
-Detecting undefined, null, or empty strings
+Detecting undefined, null, or empty strings. Eventually, I want to make this like the lonely operator equivalent (see ruby 2.3 feature) in javascript
 
 ## Installation
 
