@@ -17,6 +17,8 @@ npm i fuckingundefinedemptynull
 ```javascript
 var emptyStringCheck = require("fuckingundefinedemptynull").isStringSet;
 
+var undefinedVariable;
+
 if (emptyStringCheck(undefinedVariable)) {
     console.log("Variable is set");
 } else {
